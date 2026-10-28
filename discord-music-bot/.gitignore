@@ -1,0 +1,10 @@
+node_modules/
+.env
+cookies.txt
+*.cookies
+*.log
+cookies.json
+yt-dlp.exe
+ffmpeg.exe
+music/
+data/
